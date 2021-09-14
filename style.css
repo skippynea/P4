@@ -13,6 +13,13 @@ button {
     outline: none!important;
 }
 
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -824,13 +831,13 @@ h4 {
     background-image: url("img/lines-h2-bg.webp");
 }
 
-/*.bg-atlanta-20made-20sign {
+.bg-atlanta-20made-20sign {
     background-image: url("img/atlanta made sign.webp");
-}*/
+}
 
-/*.bg-atlanta-20made-20sign-20orange {
+.bg-atlanta-20made-20sign-20orange {
     background-image: url("img/atlanta made sign orange.webp");
-}*/
+
 
 @media (max-width: 1024px) {
     .bloc {
