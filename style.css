@@ -11,6 +11,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none;
+    color: rgba(0, 0, 0, 1);
 }
 
 
@@ -180,7 +181,7 @@ a:hover {
 }
 
 .d-bloc .panel button:hover {
-    color: rgba(0, 0, 0, .7);
+    color: rgba(0, 0, 0, 1);
 }
 
 .d-bloc .panel icon {
