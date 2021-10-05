@@ -37,7 +37,7 @@ a:hover {
     bottom: 0;
     width: 100%;
     z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
+    background: #FFFFFF url("images/pageload-spinner.gif") no-repeat center center;
 }
 
 .bloc {
@@ -104,7 +104,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.webp");
+    background: url("images/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -842,19 +842,19 @@ h4 {
 }
 
 .bg-dots-bg img{
-    background-image: url("img/dots-bg.webp");
+    background-image: url("images/dots-bg.webp");
 }
 
 .bg-lines-h2-bg img{
-    background-image: url("img/lines-h2-bg.webp");
+    background-image: url("images/lines-h2-bg.webp");
 }
 
 .bg-atlanta-20made-20sign img{
-    background-image: url("img/atlanta-made-sign.webp");
+    background-image: url("images/atlanta-made-sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange img{
-    background-image: url("img/atlanta-made-sign-orange.webp");
+    background-image: url("images/atlanta-made-sign-orange.webp");
 
 
 @media (max-width: 1024px) {
