@@ -377,7 +377,7 @@ a:hover {
 
 @media (min-width: 768px) {
     .site-navigation {
-        position: center;
+        position: relative';
         top: 50%;
         right: 20px;
         transform: translate(0, -50%);
@@ -855,7 +855,7 @@ h4 {
 
 .bg-atlanta-20made-20sign-20orange img{
     background-image: url("images/atlanta-made-sign-orange.webp");
-
+}
 
 @media (max-width: 1024px) {
     .bloc {
